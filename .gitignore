@@ -1,0 +1,4 @@
+__pycache__/
+qdrant_storage
+wiki
+main.py 
